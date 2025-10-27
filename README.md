@@ -1,1 +1,13 @@
-# bigIdeasFinalProject
+# Big Ideas Final Project
+Kamron Gross
+*kag497@pitt.edu*
+Christian Ruiz
+*cmr245@pitt.edu*
+Luis Castro
+*llc87@pitt.edu*
+
+
+# Data Sets
+https://data.wprdc.org/dataset/real-estate-sales
+
+
