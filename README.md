@@ -1,5 +1,5 @@
 # Big Ideas Final Project
-Kamron Gross
+Kamron Gross <br>
 *kag497@pitt.edu*
 Christian Ruiz
 *cmr245@pitt.edu*
