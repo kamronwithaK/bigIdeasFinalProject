@@ -3,7 +3,7 @@ Kamron Gross
 *kag497@pitt.edu*
 Christian Ruiz
 *cmr245@pitt.edu*
-Luis Castro - Greenways
+Luis Castro
 *llc87@pitt.edu*
 
 
