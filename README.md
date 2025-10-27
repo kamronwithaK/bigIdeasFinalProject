@@ -8,6 +8,5 @@ Luis Castro, Greenways
 
 
 # Data Sets
-https://data.wprdc.org/dataset/real-estate-sales
-
+https://data.wprdc.org/dataset/city-owned-properties
 
