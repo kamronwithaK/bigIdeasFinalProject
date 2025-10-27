@@ -1,5 +1,5 @@
 # Big Ideas Final Project
-Kamron Gross <br>
+Kamron Gross, City Owned Properties 
 *kag497@pitt.edu*
 Christian Ruiz
 *cmr245@pitt.edu*
