@@ -17,3 +17,4 @@ dataset of greenways in Pittsburgh
 https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
 
 # OVERVIEW
+Our project seeks to measure which of the neighborhoods in Pittsburgh is the best, using a combined metric of City Owned Properties, Police Arrests, and Greenways
